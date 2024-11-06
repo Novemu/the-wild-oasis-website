@@ -15,7 +15,6 @@ export default function RootLayout({
           <Logo />
           <Navigation />
         </header>
-
         <main>{children}</main>
         <footer>Copyright</footer>
       </body>
